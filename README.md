@@ -1,6 +1,6 @@
 # Result_Probability
 
-This Notebook calculates the possibility for every possible result, depending on the number of shots, based on the xG of every shot and creates a graphic for that match in the graphics folder.
+This Notebook calculates the probability for every possible result, depending on the number of shots, based on the xG of every shot and creates a graphic for that match in the graphics folder.
 xG-values are from Opta as found on fbref.com.
 
 Run either **prob_chart(url)** if you only want the probability chart, or **viz_game(url)** if you want the whole graphic including additional info.
